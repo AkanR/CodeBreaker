@@ -13,9 +13,6 @@
 # 4. Based on these clues you will guess again until you break the code with a
 #    perfect match, the game will report "CODE CRACKED"!
 
-# There are a few things you will have to discover for yourself for this game!
-# Here are some useful hints:
-
 import random
 
 def get_guess():
